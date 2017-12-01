@@ -24,6 +24,7 @@ body {
 }
 p {
     font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
@@ -72,7 +73,7 @@ background-color: lightcoral;
 
 li {
     margin: 0px;
-    display:
+    display:  
 }
 
 .Tabs__item {
@@ -134,7 +135,7 @@ margin: 20px 0;
 
 .List__item {
 display: inline;
-
+font-size: 33px;
 }
 .Box__title {
 font-size: 1.5em;
@@ -176,3 +177,7 @@ background-color: white;
 	padding: 20px;
 }
 
+a {
+    font-size: 33px;
+    align-content: center;
+}
